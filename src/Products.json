@@ -1,0 +1,39 @@
+[
+	{	
+		"id": 1,
+		"title": "Gafas Color Rojo",
+		"description": "Gafas",
+		"price": 350000,
+		"thumbnail": "no image",
+		"code": "CC1",
+		"stock": 40
+		
+	},
+	{	
+		"id": 2,
+		"title": "Gafas de Sol Color Cafe",
+		"description": "Gafas de Sol",
+		"price": 340000,
+		"thumbnail": "no image",
+		"code": "AC2",
+		"stock": 20
+	},
+	{
+		"id": 3,
+		"title": "Gafas Acetato Color Verde",
+		"description": "Gafas",
+		"price": 190000,
+		"thumbnail": "no image",
+		"code": "CC2",
+		"stock": 10
+	},
+	{
+		"id": 4,
+		"title": "Gafas de Sol Color Amarillo",
+		"description": "Gafas de Sol",
+		"price": 400000,
+		"thumbnail": "no image",
+		"code": "AC3",
+		"stock": 25
+	}
+]
